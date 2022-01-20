@@ -67,6 +67,7 @@ get_binaries() {
     darwin/amd64) BINARIES="helm-schema-gen" ;;
     linux/386) BINARIES="helm-schema-gen" ;;
     linux/amd64) BINARIES="helm-schema-gen" ;;
+    linux/amd64) BINARIES="helm-schema-gen" ;;
     windows/386) BINARIES="helm-schema-gen" ;;
     windows/amd64) BINARIES="helm-schema-gen" ;;
     *)
